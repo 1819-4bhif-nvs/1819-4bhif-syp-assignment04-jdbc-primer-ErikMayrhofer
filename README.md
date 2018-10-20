@@ -1,4 +1,10 @@
 # 1819-4bhif-nvs-jdbc-primer
+Hausaufgabenverwaltung von *****Erik Mayrhofer**
+
+Entitäten: Subject, Assignment
+Assignment has one Subject
+
+# Ursprüngliche Angabe
 Create a simple JavaSE jdbc application (CRUD + metadata)
 
 # Übung JDBC CRUD
