@@ -1,8 +1,9 @@
 # 1819-4bhif-nvs-jdbc-primer
-Hausaufgabenverwaltung von *****Erik Mayrhofer**
+Schüler und Kursverwaltung von *****Erik Mayrhofer**
 
-Entitäten: Subject, Assignment
-Assignment has one Subject
+Entitäten: Registration, Course, Subject, Student 
+A Registration is for a Course and by a Student
+Every course belongs to one subject
 
 # Ursprüngliche Angabe
 Create a simple JavaSE jdbc application (CRUD + metadata)
